@@ -142,7 +142,7 @@ export function Hero() {
   }, [displayText]);
 
   return (
-    <section id="hero" className="min-h-screen flex items-center justify-center px-4 py-8">
+    <section id="hero" className="min-h-screen flex items-center justify-center px-4 py-2">
       <div className="w-full max-w-5xl">
         {/* Title */}
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>

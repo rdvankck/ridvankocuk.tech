@@ -1,0 +1,24 @@
+{
+  "skills": [
+    { "name": "JavaScript", "icon": "JS" },
+    { "name": "TypeScript", "icon": "TS" },
+    { "name": "React", "icon": "⚛️" },
+    { "name": "Next.js", "icon": "▲" },
+    { "name": "Node.js", "icon": "⬢" },
+    { "name": "Python", "icon": "🐍" },
+    { "name": ".NET", "icon": "⬡" },
+    { "name": "React Native", "icon": "📱" },
+    { "name": "Flutter", "icon": "🦋" },
+    { "name": "PostgreSQL", "icon": "🐘" },
+    { "name": "MongoDB", "icon": "🍃" },
+    { "name": "Redis", "icon": "🔴" },
+    { "name": "Docker", "icon": "🐳" },
+    { "name": "Git", "icon": "📦" },
+    { "name": "Tailwind CSS", "icon": "🎨" },
+    { "name": "GraphQL", "icon": "◈" },
+    { "name": "REST API", "icon": "🔗" },
+    { "name": "OpenAI", "icon": "🤖" },
+    { "name": "Vercel", "icon": "▲" },
+    { "name": "Figma", "icon": "🎭" }
+  ]
+}

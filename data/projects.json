@@ -1,0 +1,50 @@
+[
+  {
+    "id": "aichat",
+    "name": "AiChat",
+    "language": "JavaScript",
+    "description": "AI-powered chatbot application",
+    "longDescription": "A full-stack AI chatbot built with React and Node.js, featuring natural language processing powered by OpenAI's GPT models.",
+    "techStack": ["React", "Node.js", "OpenAI", "MongoDB", "Express"],
+    "github": "https://github.com/rdvankck/AiChat",
+    "demo": null,
+    "image": "/images/aichat.png",
+    "featured": true
+  },
+  {
+    "id": "algolabs",
+    "name": "AlgoLabs",
+    "language": "TypeScript",
+    "description": "Algorithm visualization tool",
+    "longDescription": "Interactive algorithm visualizer for learning data structures and algorithms with step-by-step animations.",
+    "techStack": ["TypeScript", "Next.js", "Framer Motion", "Tailwind CSS"],
+    "github": "https://github.com/rdvankck/AlgoLabs",
+    "demo": null,
+    "image": "/images/algolabs.png",
+    "featured": true
+  },
+  {
+    "id": "30daysofjs",
+    "name": "30DaysOfJS",
+    "language": "JavaScript",
+    "description": "JavaScript learning journey",
+    "longDescription": "A 30-day JavaScript challenge covering fundamentals to advanced concepts with practical projects.",
+    "techStack": ["JavaScript", "HTML5", "CSS3"],
+    "github": "https://github.com/rdvankck/30DaysOfJS",
+    "demo": null,
+    "image": "/images/30daysofjs.png",
+    "featured": true
+  },
+  {
+    "id": "highresgif",
+    "name": "HighResGifGenerator",
+    "language": "TypeScript",
+    "description": "High-resolution GIF generation tool",
+    "longDescription": "A tool for generating high-quality animated GIFs from images or videos with customizable settings.",
+    "techStack": ["TypeScript", "Node.js", "Canvas", "FFmpeg"],
+    "github": "https://github.com/rdvankck/HighResGifGenerator",
+    "demo": null,
+    "image": "/images/highresgif.png",
+    "featured": false
+  }
+]
